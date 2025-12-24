@@ -63,10 +63,4 @@ I enjoy designing and optimizing data pipelines, building robust ML systems, and
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ianbenlolo&theme=highcontrast&hide_border=true">
 
-
-### GitHub Contribution Chart
-<a href="https://github.com/ianbenlolo">
-    <img src="https://ghchart.rshah.org/ianbenlolo" alt="Ian's GitHub Contribution Chart">
-</a>
-
 </div>
